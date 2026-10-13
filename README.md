@@ -10,7 +10,7 @@
 
 **Live demo:** [https://propsync-test.vercel.app](https://propsync-test.vercel.app)
 
-![PropSync demo: grid and map syncing](docs/demo.gif)
+![PropSync demo: grid and map syncing](<img width="800" height="423" alt="ProductDemo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2022b0a9-50fd-40b3-98c2-7b68170c776c" />)
 <!-- Replace with a 10-15 second GIF: click a row, the map centers on the pin; draw a parcel polygon. Add 1-2 static screenshots below. -->
 
 ---
